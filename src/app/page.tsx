@@ -27,7 +27,7 @@ export default function Home() {
     // Display the notification
     new Notification('Hello!', {
       body: 'You received a push notification.',
-      icon: '/icons/icon-192x192.png', 
+      icon: '/img.jpeg', 
     });
   };
 
